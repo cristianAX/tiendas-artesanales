@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/jackd/Downloads/Tienda_Ventas_Artesanales%20(3)/Tienda_Ventas_Artesanales/web/index.jsp</file>
+            <file>file:/C:/Users/jackd/Downloads/Tienda_Ventas_Artesanales%20(3)/Tienda_Ventas_Artesanales/src/java/config/Conexion.java</file>
+            <file>file:/C:/Users/jackd/Downloads/Tienda_Ventas_Artesanales%20(3)/Tienda_Ventas_Artesanales/src/java/dao/CarritoDao.java</file>
+            <file>file:/C:/Users/jackd/Downloads/Tienda_Ventas_Artesanales%20(3)/Tienda_Ventas_Artesanales/src/java/modelo/Producto.java</file>
+            <file>file:/C:/Users/jackd/Downloads/Tienda_Ventas_Artesanales%20(3)/Tienda_Ventas_Artesanales/src/java/modelo/Pedido.java</file>
+            <file>file:/C:/Users/jackd/Downloads/Tienda_Ventas_Artesanales%20(3)/Tienda_Ventas_Artesanales/src/java/servlet/ActualizarCantidadServlet.java</file>
+            <file>file:/C:/Users/jackd/Downloads/Tienda_Ventas_Artesanales%20(3)/Tienda_Ventas_Artesanales/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/jackd/Downloads/Tienda_Ventas_Artesanales%20(3)/Tienda_Ventas_Artesanales/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/jackd/Downloads/Tienda_Ventas_Artesanales%20(3)/Tienda_Ventas_Artesanales/src/java/modelo/Categoria.java</file>
+            <file>file:/C:/Users/jackd/Downloads/Tienda_Ventas_Artesanales%20(3)/Tienda_Ventas_Artesanales/src/java/modelo/DetalleCompra.java</file>
+            <file>file:/C:/Users/jackd/Downloads/Tienda_Ventas_Artesanales%20(3)/Tienda_Ventas_Artesanales/src/java/modelo/ItemCarrito.java</file>
+            <file>file:/C:/Users/jackd/Downloads/Tienda_Ventas_Artesanales%20(3)/Tienda_Ventas_Artesanales/src/conf/MANIFEST.MF</file>
+            <file>file:/C:/Users/jackd/Downloads/Tienda_Ventas_Artesanales%20(3)/Tienda_Ventas_Artesanales/web/login.jsp</file>
+            <file>file:/C:/Users/jackd/Downloads/Tienda_Ventas_Artesanales%20(3)/Tienda_Ventas_Artesanales/src/java/servlet/ProductosPorCategoriaServlet.java</file>
+            <file>file:/C:/Users/jackd/Downloads/Tienda_Ventas_Artesanales%20(3)/Tienda_Ventas_Artesanales/src/java/dao/PedidoDao.java</file>
+        </group>
+    </open-files>
+</project-private>

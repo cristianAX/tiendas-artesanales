@@ -1,0 +1,7 @@
+-- Datos de categoría 
+Cerámica
+Retablos
+Peluches
+Juegos
+Piscos
+Decoración 

@@ -1,0 +1,51 @@
+-- datos para insertar en productos 
+Nombre: Torito de Pucará
+Descripción: Artesanía en cerámica, colores variados, altura 19 cm.
+Precio_venta: 37.00
+categoría: Cerámica
+ 
+Nombre: Ekeko de carámica
+Descripción:Ekeko tradicional de cerámica ayacuchana, 16 cm.
+Precio_venta: 48.00
+Categoría: Cerámica
+
+
+Nombre: Llamita con chuyo
+Descripción:Figura decorativa de llama con chuyo, altura 14 cm
+Precio_venta:39.00
+Categoría:Cerámica
+
+
+
+Nombre: Retablo Nacimiento
+Descripción: Retablo ayacuchano tradicional, 13 x 22 cm.
+Precio_venta: 188.00
+Categoría: Retablos
+
+
+
+Nombre: Peluche de cuy macho
+Descripción: Peluche artesanal de cuy macho, altura 28 cm.
+Precio_venta:42.00
+Categoría: Peluches
+
+
+Nombre: Ajedrez Incas vs. Españoles
+Descripción: Juego de mesa 36 x 36 cm.
+Precio_venta: 188.00
+Categoría: Juegos
+
+
+Nombre: Pisco Tumi
+Descripción: Pisco para regalo, 50 ml, altura 21 cm.
+Precio_venta: 29.00
+Categoría: Piscos
+
+Nombre: Espejo Cuscajo Circular
+Descripción: Espejo decorativo circular, 32 cm de diámetro.
+Precio_venta:79.00
+Categoría: Decoración
+
+
+
+
